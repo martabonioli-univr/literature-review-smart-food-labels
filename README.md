@@ -4,6 +4,8 @@ Material used for the text analysis included in the "Response to the Letter to t
 (Bonioli & Bazzani, 2025), submitted by Carlos et al., 2025.
 
 ### Jupyter notebook 
+Text_Analysis_literature_review.ipynb
+Text_Analysis_literature_review_def.pdf
 
 ### Excel file with Results 
 
