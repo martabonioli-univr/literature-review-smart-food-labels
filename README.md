@@ -5,8 +5,7 @@ Material used for the text analysis included in the "Response to the Letter to t
 
 ### Jupyter notebook 
 
+### Excel file with Results 
 
-### folder 633 articles
-https://www.dropbox.com/scl/fo/m1ani37eez2jm3kiyv0l0/AM97xCdkrtlJPoUxayI4Q8s?rlkey=p9mjukjlvrhlwm9yc3sati0hc&dl=0
 
 
